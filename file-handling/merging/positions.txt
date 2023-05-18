@@ -1,0 +1,6 @@
+Defender
+Goalkeeper
+Forward
+Striker
+Winger
+Midfielder
